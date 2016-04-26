@@ -1,0 +1,14 @@
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\BLL.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\BLL.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\obj\Debug\BLL.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\obj\Debug\BLL.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\DAL.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\DALFactory.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\DTOs.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\IType.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\DALFactory.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\DAL.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\DTOs.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\BLL\bin\Debug\IType.pdb

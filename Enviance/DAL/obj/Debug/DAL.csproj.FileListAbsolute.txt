@@ -1,0 +1,10 @@
+C:\Users\Mayur\Desktop\Enviance\Enviance\DAL\bin\Debug\DAL.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\DAL\bin\Debug\DAL.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Mayur\Desktop\Enviance\Enviance\DAL\obj\Debug\DAL.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\DAL\obj\Debug\DAL.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\DAL\bin\Debug\DAL.dll.config
+C:\Users\Mayur\Desktop\Enviance\Enviance\DAL\bin\Debug\DTOs.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\DAL\bin\Debug\IType.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\DAL\bin\Debug\DTOs.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\DAL\bin\Debug\IType.pdb

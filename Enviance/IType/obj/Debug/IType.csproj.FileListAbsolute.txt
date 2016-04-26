@@ -1,0 +1,7 @@
+C:\Users\Mayur\Desktop\Enviance\Enviance\IType\bin\Debug\IType.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\IType\bin\Debug\IType.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\IType\obj\Debug\IType.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\IType\obj\Debug\IType.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\IType\bin\Debug\DTOs.dll
+C:\Users\Mayur\Desktop\Enviance\Enviance\IType\bin\Debug\DTOs.pdb
+C:\Users\Mayur\Desktop\Enviance\Enviance\IType\obj\Debug\IType.csprojResolveAssemblyReference.cache
